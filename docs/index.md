@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <title>I am very bored </title>
@@ -133,7 +133,3 @@ body {
 
 <div class="footer">
   <h2>So yeah I can create it too :)  
-</div>
-
-</body>
-</html>
